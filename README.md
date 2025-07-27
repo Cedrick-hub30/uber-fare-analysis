@@ -33,7 +33,8 @@ Line chart or table showing fare amount over months.
 Geographical map showing pickup coordinates.  
 ![Pickup Map](pickup_map.png)
 
----
+### 7.Dashboard over view
+![all](all.png)
 
 ##  Key Findings
 
